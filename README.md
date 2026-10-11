@@ -4,7 +4,7 @@ This project features an interactive Microsoft Excel dashboard for exploring sal
 ## Dashboard Preview
 ![Excel Salary Dashboard](screenshots/salary_dashboard.png)
 
-## User Problem
+## Problem Statement
 Salary information across job titles, countries, and employment types can be difficult to compare when it is spread across thousands of job postings. Job seekers and other users need a simple way to explore compensation patterns and understand how salaries vary by role, location, and schedule. This dashboard addresses that need through interactive filters, summary KPIs, and comparative charts.
 
 ## Dataset
